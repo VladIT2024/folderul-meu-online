@@ -1,0 +1,86 @@
+
+ID/Număr test: hw11022024
+
+Nume: utilizatorul existent poate modifica numele afișat
+
+Descriere: utilzatorul existent poate modifica numele afișat tastînd în loc de litere simboluri precum “!@#$%^&*()”
+
+Prioritate: low
+
+Tip de testare: BBT, UI, manual, Testare de compatibilitate, positive, usability,  Testare de securitate,
+
+Statut de automatizare: Nu
+
+Precondiții:
+•	desktop
+•	dispozitiv conectat la rețeaua de alimentare sau pe baterie
+•	sistem de operare
+•	conexiune la rețeaua de internet
+•	browser ”Firefox” setat în limba română
+•	cont de utilizator existent și logat
+Mediu: www.x.com setat în limba română |11.02.2024| Production environment
+Pași de testare:
+•	pornește dispozitivul
+•	conectează-te la rețeaua de internet
+•	deschide browser-ul Firefox
+•	tapează ”www.x.com” în bara de căutare
+•	apasă tasta ”Enter”
+•	dă clik pe butonul ”Mai multe” poziționat în partea stîngă jos
+•	dă clik pe butonul ”Setări și confidențialitate”
+•	dă clik pe butonul ”Informații despre cont” poziționat în partea dreapă sus
+•	dă clik pe placeholder-ul ”Parolă” poziționat în partea dreaptă sus
+•	tapează parola ”*************”
+•	apasă tasta ”Enter”
+•	apasă butonul ”Nume de utilizator”
+•	dă clik pe textul ”VladCocieru” din bara ”Nume de utilizator”
+•	șterge numele de utilizator existent
+•	tapează simbolurile ” ”!@#$%^&*() ”
+•	dă clik pe butonul ”Salvează”
+Datele de test:
+•	”www.x.com”  în calitate de producție
+•	”*************” în calitate de parolă
+•	” ”!@#$%^&*() ” în calitate de nume de utilizator nou
+
+Rezultatul așteptat: utilzatorul existent poate modifica numele afișat tastînd în loc de litere simboluri precum “!@#$%^&*()”
+
+Rezultatul actual: utilzatorul existent nu poate modifica numele afișat tastînd în loc de litere simboluri precum “!@#$%^&*()”
+
+Atașamente: x.png, XI.png, XII.png, video - schimbare nume utilizator 
+
+Starea de execuție: eșuat
+
+Numele QA: Cocieru Vlad
+
+Data, ora: 11 februarie 2024, ora 19.00
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
