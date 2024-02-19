@@ -1,4 +1,4 @@
-
+modificat
 ID/Număr test: hw11022024
 
 Nume: utilizatorul existent poate modifica numele afișat
@@ -52,35 +52,3 @@ Starea de execuție: eșuat
 Numele QA: Cocieru Vlad
 
 Data, ora: 11 februarie 2024, ora 19.00
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
- 
-
- 
-
