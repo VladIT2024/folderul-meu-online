@@ -1,5 +1,8 @@
 modificat
+<<<<<<< HEAD
 
+=======
+>>>>>>> 86551f7c5bdca3ee11d0b3dfa2b070333bb2c5b9
 ID/Număr test: hw11022024
 
 Nume: utilizatorul existent poate modifica numele afișat
@@ -52,4 +55,8 @@ Starea de execuție: eșuat
 
 Numele QA: Cocieru Vlad
 
+<<<<<<< HEAD
 Data, ora: 11 februarie 2024, ora 19.00
+=======
+Data, ora: 11 februarie 2024, ora 19.00
+>>>>>>> 86551f7c5bdca3ee11d0b3dfa2b070333bb2c5b9
